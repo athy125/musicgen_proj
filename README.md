@@ -1,11 +1,4 @@
-<p align="center">
-<img src="music.png"
-    alt="music"
-    width=2000
-    height=200>
-</p>
-    
-<h1>AI Music Generator</h1>
+ <h1>AI Music Generator</h1>
 
 <p align="justify">
 This is a Deep Learning & Natural Language Processing model which can generate Piano Music
