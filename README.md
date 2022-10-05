@@ -78,7 +78,7 @@ In music, a chord is a group of numerous notes ("pitches") that sound at the sam
     <li>
         Clone the repository to your system and head over to it <br>
         <code> git clone https://github.com/athy125/musicgen_proj</code> <br>
-        <code> cd AI_Music_Generator </code>
+        <code> cd musicgen_proj </code>
     </li>
     <li>
         To listen to a music file - <br>
