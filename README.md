@@ -37,7 +37,7 @@ In music, a chord is a group of numerous notes ("pitches") that sound at the sam
         <img src="model_plot.png"
              alt="Model Plot"
              width=400>
-        <figcaption> A plot of the model and its layers </figcaption>
+        <figcaption>A plot of the model and its layers</figcaption>
     </figure>
     </div>
     <p align="justify">
